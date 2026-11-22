@@ -61,7 +61,3 @@ Mobile apps developed as coursework, with structured UI and data handling.
 
 - 📧 **Email:** [siyumidilsara2003@gmail.com](mailto:siyumidilsara2003@gmail.com)
 - 🔗 **LinkedIn:** [Siyumi Fonseka](https://www.linkedin.com/in/siyumi-fonseka-61b233385/)
-
----
-
-⭐ Always happy to connect and collaborate on data science and data engineering. Feel free to reach out!
