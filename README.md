@@ -1,58 +1,67 @@
-## Hi, I'm Siyumi 👋
+# Hi, I'm Siyumi Fonseka 👋
 
-🎓 IT Undergraduate at SLIIT  
-📘 Bachelor of Science Honours in Information Technology  
-📊 Specialization in Data Science  
+**Data Science Undergraduate | Aspiring Data Scientist & Data Engineer**
 
-💻 Software Developer | Aspiring Data Scientist
-🌍 Based in Sri Lanka  
+I'm a BSc (Hons) in Information Technology undergraduate at **SLIIT**, specializing in **Data Science**. I combine a solid software development background with a growing focus on data analysis, database systems, and building reliable data-driven solutions.
 
 ---
 
-### 🔧 Technical Skills
+## 🎯 Areas of Interest
 
-Programming & Development
-- Java, PHP, JavaScript
-- HTML, CSS
-- MERN Stack (MongoDB, Express, React, Node.js)
-- Kotlin, XML (Android Development)
-
-Data & Databases
-- MySQL
-- SQL
-- Python (Beginner – Data Analysis)
-
-Tools
-- Git & GitHub
-- VS Code
-- Android Studio
-- Postman (Basic)
+- Data Science, Data Analysis, and Data Engineering
+- SQL and database systems
+- Data pipelines and ETL
+- Machine learning fundamentals
 
 ---
 
-### 📂 Academic & Personal Projects
+## 🔧 Technical Skills
 
-- Online Market Store  
-  Web application developed using HTML, CSS, PHP, and JavaScript.
-
-- Online Stock Management System  
-  Java-based web application with CRUD operations using MySQL.
-
-- Online Funeral Service Management System  
-  Full-stack MERN application developed as an academic project.
-
-- Mobile Applications  
-  Android apps developed using Kotlin and XML.
+| Category | Skills |
+|---|---|
+| **Data & Databases** | SQL, MySQL, relational database design, CRUD operations |
+| **Data Analysis** | Python (data analysis fundamentals) |
+| **Programming** | Python, Java, JavaScript, PHP, Kotlin |
+| **Web Development** | MERN Stack (MongoDB, Express, React, Node.js), HTML, CSS |
+| **Mobile Development** | Android (Kotlin, XML) |
+| **Tools** | Git, GitHub, VS Code, Android Studio, Postman |
 
 ---
 
-### 🎯 Interests
-- Software Development  
-- Data Science  
-- SQL & Database Systems  
-- Data Analysis & Machine Learning (Beginner)
+## 📂 Projects
+
+### 🗄️ Online Stock Management System
+Java-based web application with full CRUD functionality backed by a **MySQL** database.
+`Java` `MySQL` `SQL`
+
+### 🕊️ Online Funeral Service Management System
+Full-stack web application built as an academic project using the MERN stack.
+`MongoDB` `Express` `React` `Node.js`
+
+### 🛒 Online Market Store
+Web application for browsing and managing store products.
+`HTML` `CSS` `PHP` `JavaScript`
+
+### 📱 Android Applications
+Mobile apps developed as coursework, with structured UI and data handling.
+`Kotlin` `XML` `Android Studio`
 
 ---
 
-📫 Contact: siyumidilsara2003@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/siyumi-fonseka-61b233385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+## 🌱 Currently Focusing On
+
+- Strengthening Python for data analysis and visualization
+- Advanced SQL and database design
+- Core concepts of data pipelines and ETL
+- Machine learning fundamentals
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** [siyumidilsara2003@gmail.com](mailto:siyumidilsara2003@gmail.com)
+- 🔗 **LinkedIn:** [Siyumi Fonseka](https://www.linkedin.com/in/siyumi-fonseka-61b233385/)
+
+---
+
+⭐ Always happy to connect and collaborate on data science and data engineering. Feel free to reach out!
