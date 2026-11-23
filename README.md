@@ -28,26 +28,6 @@ I'm a BSc (Hons) in Information Technology undergraduate at **SLIIT**, specializ
 
 ---
 
-## 📂 Projects
-
-### 🗄️ Online Stock Management System
-Java-based web application with full CRUD functionality backed by a **MySQL** database.
-`Java` `MySQL` `SQL`
-
-### 🕊️ Online Funeral Service Management System
-Full-stack web application built as an academic project using the MERN stack.
-`MongoDB` `Express` `React` `Node.js`
-
-### 🛒 Online Market Store
-Web application for browsing and managing store products.
-`HTML` `CSS` `PHP` `JavaScript`
-
-### 📱 Android Applications
-Mobile apps developed as coursework, with structured UI and data handling.
-`Kotlin` `XML` `Android Studio`
-
----
-
 ## 🌱 Currently Focusing On
 
 - Strengthening Python for data analysis and visualization
